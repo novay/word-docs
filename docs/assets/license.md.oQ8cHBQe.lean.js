@@ -1,0 +1,1 @@
+import{_ as t,c as i,o,af as a}from"./chunks/framework.C8Q_wpug.js";const I=JSON.parse('{"title":"📜 License","description":"","frontmatter":{},"headers":[],"relativePath":"license.md","filePath":"license.md"}'),n={name:"license.md"};function r(s,e,l,c,d,T){return o(),i("div",null,[...e[0]||(e[0]=[a("",9)])])}const p=t(n,[["render",r]]);export{I as __pageData,p as default};
