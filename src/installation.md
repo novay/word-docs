@@ -30,7 +30,7 @@ composer require novay/laravel-word-template
 Publish the configuration file to customize the package and access sample templates.
 
 ```bash
-php artisan vendor:publish --tag=word-config
+php artisan vendor:publish --provider="Novay\Word\Providers\WordServiceProvider"
 ```
 
 This command creates `config/word.php` and publishes several sample `.docx` files to `storage/app/templates` that you can use as a reference.
